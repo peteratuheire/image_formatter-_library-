@@ -1,4 +1,4 @@
-# image_formatter-_library-
+# image_formatter_library
 This is a simple and portable Python library that enables basic image manipulation operations. This library is ideal for projects that require quick and efficient handling of images without the overhead of larger frameworks.
 
 Key features include:
