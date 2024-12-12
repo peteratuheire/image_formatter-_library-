@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+image_lib_env/
+Lib/
+Scripts/
+include/
+pyvenv.cfg
+
+# Test output files
+tests/output/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
